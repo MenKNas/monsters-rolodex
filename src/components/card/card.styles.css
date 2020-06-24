@@ -1,0 +1,17 @@
+.single-card {
+    border:1px solid lightgrey;
+    padding: 5px;
+    margin: 15px;
+    background-color: white;
+}
+
+.single-card:hover {
+    /* opacity: 0.7; */
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.single-card img {
+    width: 50%;
+    margin:5px auto;
+}

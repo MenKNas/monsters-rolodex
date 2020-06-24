@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: azure;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h2.dracula {
+  color: red;
+}
+
+.single-card {
+  border:1px solid lightgrey;
+  padding: 5px;
+  margin: 5px;
+  background-color: white;
 }

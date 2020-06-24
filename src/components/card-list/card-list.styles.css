@@ -1,0 +1,11 @@
+h3 {
+    color: blue;
+}
+
+.card-grid {
+    margin: 1% auto;
+    width: 1200px;
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
